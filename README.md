@@ -27,4 +27,4 @@ PART III - Lyrics Analisys:
 In this part we used nlkt library, regex and text mining techniques to analyze the lyrics. 
 We were able to find the most frequent words for portuguese and english songs, normalizing the values according to the total quantity of each year.
 
-Finally, we were able to better understand the evolution of songs on Brazilian radio, and even get insights on how to increase the probability of a song appearing in the top 100 most listened to in the coming years.
+Finally, we were able to better understand the evolution of songs on Brazilian radios, and even get insights on how to increase the probability of a song appearing in the top 100 most listened songs in the coming years.
