@@ -1,6 +1,6 @@
 # Web Scraping and Data Analysis
 
-This was my first Python project. My main goal was to apply some of what I had been studying for a while. Today, I see that a lot could have been written better (I need to make time to revisit the project), even so, during its development I not only learned a lot, but also fell in love with programming and the area of data science. Thus, I hope you enjoy it!
+This was my first Python project. My main goal was to apply some of what I had been studying for a while. Today, I see that a lot could have been written better (I need to make time to revisit the project), even so, during its development I not only learned a lot, but it also opened my eyes to many incredible possibilities of programming and the area of data science. Thus, I hope you enjoy it!
 
 
 
